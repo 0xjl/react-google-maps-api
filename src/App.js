@@ -13,8 +13,8 @@ import '@reach/combobox/styles.css';
 const libraries = ['places'];
 
 const mapContainerStyle = {
-  width: '99vw',
-  height: '99vh',
+  width: '100vw',
+  height: '100vh',
 };
 
 const center = {
