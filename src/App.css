@@ -13,3 +13,16 @@ h1 {
   margin: 0;
   padding: 0;
 }
+
+.search {
+  position: absolute;
+  top: 3rem;
+  left: 70%;
+  z-index: 5;
+}
+
+.search input {
+  padding: 0.5rem;
+  font-size: 1.5rem;
+  width: 100%;
+}

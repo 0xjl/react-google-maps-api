@@ -6,7 +6,7 @@ import {
   Marker,
   InfoWindow,
 } from '@react-google-maps/api';
-import { format, formatRelative } from 'date-fns';
+import { formatRelative } from 'date-fns';
 import mapStyles from './mapStyles';
 import '@reach/combobox/styles.css';
 
