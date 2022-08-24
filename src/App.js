@@ -30,7 +30,7 @@ const options = {
 
 export default function App() {
   const { isLoaded, loadError } = useLoadScript({
-    googleMapsApiKey: 'AIzaSyA23cu2DVISkxtHJR47WKzH4lC6pBURwBM',
+    googleMapsApiKey: AIzaSyA23cu2DVISkxtHJR47WKzH4lC6pBURwBM,
     libraries,
   });
   const [markers, setMarkers] = React.useState([]);
